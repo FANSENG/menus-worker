@@ -18,3 +18,4 @@ typing-extensions
 typing-inspection
 urllib3
 wrapt
+workers
